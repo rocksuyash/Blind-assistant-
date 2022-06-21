@@ -28,7 +28,7 @@ Feel free to mail me for any doubts/query
 
 📧 suyash172003@gmail.com
 
-⭐: Instagram: suyas_hrock
+⭐: Instagram: @suyas_hrock
 
 💙: LinkedIn: www.linkedin.com/in/suyash-shukla-16ba9922a
 
