@@ -20,7 +20,7 @@
 
 # Model Image
 
-![image](https://user-images.githubusercontent.com/91177689/174749236-316ef88f-9ba6-4476-a290-678322eef925.png,width="100px")
+![image,width="100px"](https://user-images.githubusercontent.com/91177689/174749236-316ef88f-9ba6-4476-a290-678322eef925.png)
 
 
 # Setup
