@@ -5,6 +5,10 @@
 
 -> The mobility of blind people in unknown environment seems impossible without external help, because they don’t have any proper idea about their surroundings. So, we are developing a electronic eye which helps them to know about their surroundings and also guide them during travelling.
 
+-> Through this device visually imparied person can detect the object infront of him/her, read the text infront of him/her, also know the distance between the object and person, and also have special feature that person infront of him/her is known by the person or not.
+
+-> It is a real time working model through which the visually impaired person need less requirement of third party person.
+
 # Features
 -> Easy to integrate
 
