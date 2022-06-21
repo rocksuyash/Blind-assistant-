@@ -7,21 +7,28 @@
 
 # Features
 -> Easy to integrate
+
 -> Voice Activated
+
 -> Real Time Interface
+
 -> Can be Interacted with Android Mobile Webcam as well
 
 # Setup
 Fork the repository at your profile
+
 Git Clone the repository to your local machine.
+
 pip install - r requirements.txt
-Follow my Youtube Tutorial
+
 Run MainFile
 
 # And it is done
 Feel free to mail me for any doubts/query
 
 📧 suyash172003@gmail.com
+
 ⭐: Instagram: suyas_hrock
+
 💙: LinkedIn: www.linkedin.com/in/suyash-shukla-16ba9922a
 
